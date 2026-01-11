@@ -61,8 +61,7 @@
 - Real-time Notifications  
 - Firebase Backend  
 
-> ⚠️ Repo names example hain.  
-> Agar repo ka naam different ho, toh `repo=REPO_NAME` change kar dena.
+
 
 ---
 
