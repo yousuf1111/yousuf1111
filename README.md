@@ -39,7 +39,7 @@
 
 ## 🚀 Featured Projects
 
-### 🎮 NBT FF Reward App
+### 🎮 Apnajeet | Rewarded App 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousuf1111&repo=NBT-FF-Reward&theme=tokyonight" />
 </p>
@@ -84,9 +84,7 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: yourmail@gmail.com  
-- 💬 Telegram / WhatsApp (Private)
-
+- 📧 Email: apnajeet.fftmlabs@gmail.com  
 ---
 
 ⭐ **If you like my work, do not forget to star my repositories!**
