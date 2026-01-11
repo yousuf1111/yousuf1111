@@ -1,16 +1,92 @@
 <h1 align="center">Hi 👋, I'm Yousuf</h1>
-<h3 align="center">A passionate app developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/lazy_coder___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lazy_coder___" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Android+App+Developer;Kotlin+%7C+Firebase+Expert;Secure+Gaming+App+Builder;Admin+Panel+Architect" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yousuf1111&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousuf1111&show_icons=true&locale=en&layout=compact" alt="yousuf1111" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousuf1111&show_icons=true&locale=en" alt="yousuf1111" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousuf1111&" alt="yousuf1111" /></p>
+- 📱 Android Developer (XML + Kotlin)
+- 🔥 Firebase (Auth, Firestore, Realtime DB, FCM)
+- ⚙️ Backend: Node.js
+- 🎮 Gaming & Tournament Apps
+- 🔐 Focused on **100% Secure & Hack-proof Systems**
+- 🇮🇳 India
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile
+![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android&logoColor=3DDC84)
+
+### 🔥 Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=339933)
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+---
+
+## 🚀 Featured Projects
+
+### 🎮 NBT FF Reward App
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousuf1111&repo=NBT-FF-Reward&theme=tokyonight" />
+</p>
+
+- Firebase Tournament System  
+- Google Sign-In  
+- Secure Winner Selection  
+- Admin Controlled Rewards  
+
+---
+
+### 🛡️ Admin Panel App
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousuf1111&repo=Admin-Panel-App&theme=tokyonight" />
+</p>
+
+- Tournament Create / Edit  
+- Manual Winner Selection  
+- Real-time Notifications  
+- Firebase Backend  
+
+> ⚠️ Repo names example hain.  
+> Agar repo ka naam different ho, toh `repo=REPO_NAME` change kar dena.
+
+---
+
+## 📊 GitHub Stats (Dark)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yousuf1111&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousuf1111&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousuf1111&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: yourmail@gmail.com  
+- 💬 Telegram / WhatsApp (Private)
+
+---
+
+⭐ **If you like my work, do not forget to star my repositories!**
